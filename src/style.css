@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+.button{
+    color: red;
+    background-color: yellow;
+    border: none;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
